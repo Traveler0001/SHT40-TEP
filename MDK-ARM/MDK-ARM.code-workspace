@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.lua": "EliteScript_Lua",
+            "i2c.h": "c",
+            "main.h": "c",
+            "tim.h": "c"
+        }
+    },
+    "extensions": {}
+}
